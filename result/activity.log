@@ -1,0 +1,8 @@
+2026-01-11 17:31:25,340 INFO root Client 3 registered
+2026-01-11 17:31:25,381 INFO timeloop Starting Timeloop..
+2026-01-11 17:31:25,382 INFO timeloop Registered job <function process_message at 0x000001D184808540>
+2026-01-11 17:31:25,382 INFO timeloop Timeloop now started. Jobs will run based on the interval set
+2026-01-11 17:48:51,992 INFO root Client 3 registered
+2026-01-11 17:48:52,025 INFO timeloop Starting Timeloop..
+2026-01-11 17:48:52,026 INFO timeloop Registered job <function process_message at 0x000001DD49138540>
+2026-01-11 17:48:52,026 INFO timeloop Timeloop now started. Jobs will run based on the interval set
