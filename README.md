@@ -263,3 +263,8 @@ screenshots/
 - Replace HTTP with WebSockets / message broker
 - Add fault tolerance and retry logic
 - Add consensus (e.g., Raft) for server replication
+
+## Developed by:
+- Rafiad Sadat Shahir [20101580] (rafiad.shahir@bracu.ac.bd) 
+- Zayed Humayun [20141030] (zayed.humayun@bracu.ac.bd) 
+- Abdullah Khondoker [20301065] (abdullah.khondoker@g.bracu.ac.bd) 
