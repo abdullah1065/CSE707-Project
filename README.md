@@ -257,13 +257,6 @@ screenshots/
 
 ---
 
-## Future Improvements
-
-- Persistence (store blockchain and balances on disk)
-- Replace HTTP with WebSockets / message broker
-- Add fault tolerance and retry logic
-- Add consensus (e.g., Raft) for server replication
-
 ## Developed by:
 - Rafiad Sadat Shahir [20101580] (rafiad.shahir@bracu.ac.bd) 
 - Zayed Humayun [20141030] (zayed.humayun@bracu.ac.bd) 
