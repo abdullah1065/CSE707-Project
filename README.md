@@ -236,7 +236,7 @@ screenshots/
 
 ## Demo Video
 
-- **Video Link:** *(YouTube link)*
+- **Video Link:** *([YouTube link](https://www.youtube.com/watch?v=IBbIwvN_UxY))*
 
 ---
 
