@@ -5,7 +5,7 @@ Each **client node** runs a FastAPI app that:
 - participates in Lamport mutual exclusion for transfers
 - maintains a local blockchain-like ordered log (sorted by Lamport time)
 
-A separate **bank server**:
+A separate **lamportLedger server**:
 - assigns client IDs
 - stores each client's reachable address (peer discovery)
 - maintains account balances
